@@ -172,7 +172,7 @@ input:focus{
 }
 .wallpaper{
     width: 100%;
-    background-image: url(/04-ScreenLoginLeagueofLegends/img/wallpaper.jpg);
+    background-image: url(/04-ScreenLoginLeagueofLegends/img/wallpaper.jpg);/*comentario teste para commit*/
     background-size: cover;
     background-position: center;
     flex: 1; /*limita ao espaço 100% que a imagem tem pra ocupar*/
