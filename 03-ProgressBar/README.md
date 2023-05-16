@@ -1,4 +1,5 @@
-# skills
+# ProgressBar
+
 Olá, este é um projeto de barra de progresso animada
 
 Uma barra de progresso que ao atualizar ela se mexe da esqueda para direita para atingir o progresso.
