@@ -5,5 +5,4 @@ foi usado um calculo de width para que a janela do card se posicionasse da melho
 
 width: calc(33% - 20px);
 
-![image](https://github.com/matheus2997/cards/assets/127162613/15f850c9-0b18-4fbd-b965-9af82b8bd8b3)
-
+![image](https://github.com/matheus2997/exercicios/assets/127162613/cf05f97a-68f6-4d6f-9dfa-7717f81ac6ee)
