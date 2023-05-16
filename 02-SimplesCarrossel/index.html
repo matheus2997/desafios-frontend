@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Karla:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600&family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <div class="slider">
+        <div class="slides">
+            <!--Botões-->
+            <input type="radio" name="radio-btn" id="radio1" checked>
+            <input type="radio" name="radio-btn" id="radio2">
+            <input type="radio" name="radio-btn" id="radio3">
+            <input type="radio" name="radio-btn" id="radio4">
+            <!--Imagem-->
+            <div class="slide first">
+                <img src="img/boba.jpg" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/green.png" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/imgyellow.jpg" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/mandalori.webp" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/mandalorian.jpg" alt="">
+            </div>
+            <div class="slide">
+                <img src="img/peakpx.jpg" alt="">
+            </div>
+            <!--Navegation Ball-->
+            <div class="nav-auto">
+                <div class="auto-btn1"></div>
+                <div class="auto-btn2"></div>
+                <div class="auto-btn3"></div>
+                <div class="auto-btn4"></div>
+            </div>
+        </div>
+        <div class="manual-nav">
+            <label for="radio1" class="manual-btn"></label>
+            <label for="radio2" class="manual-btn"></label>
+            <label for="radio3" class="manual-btn"></label>
+            <label for="radio4" class="manual-btn"></label>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
