@@ -5,4 +5,3 @@ Proposta do desafio foi usar HTML e CSS para slide, usando o minimo de JavaScrip
 apenas a interatividade entre imagem e botão.
 
 ![image](https://github.com/matheus2997/exercicios/assets/127162613/8ffbbb9a-3850-4e4c-88fc-64e828c984cd)
-

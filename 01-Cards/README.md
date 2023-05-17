@@ -6,5 +6,3 @@ foi usado um calculo de width para que a janela do card se posicionasse da melho
 width: calc(33% - 20px);
 
 ![image](https://github.com/matheus2997/exercicios/assets/127162613/cf05f97a-68f6-4d6f-9dfa-7717f81ac6ee)
-
-
