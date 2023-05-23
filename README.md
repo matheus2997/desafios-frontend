@@ -29,3 +29,6 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 
 ![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/4d95b8a2-aa02-41ef-8839-74232501e8f7)
 
+<h3>7º Lâmpada / JS + HTML</h3>
+<h4>Focado em usar Js, e manipulação do DOM, este projeto liga, desliga e quebra a lampada no ClickDuplo</h4>
+
