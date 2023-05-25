@@ -34,3 +34,8 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 
 ![lamp](https://github.com/matheus2997/desafios-frontend/assets/127162613/5b0f7f68-e8f8-4f92-9a06-63daf8e953a8)
 
+#8º React-Estados-Eventos-EfeitosColaterais/
+<h4>Pequena lista de pesquisa e contador conforme aula React da ADA</h4>
+
+![ezgif com-video-to-gif (1)](https://github.com/matheus2997/desafios-frontend/assets/127162613/9b8c49fb-a50d-4682-834c-6fbbb7e1db91)
+
