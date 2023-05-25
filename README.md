@@ -37,7 +37,9 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 # 8º React-Estados-Eventos-EfeitosColaterais/
 <h4>Pequena lista de pesquisa e contador conforme aula React da ADA</h4>
 
-![ezgif com-video-to-gif (1)](https://github.com/matheus2997/desafios-frontend/assets/127162613/9b8c49fb-a50d-4682-834c-6fbbb7e1db91)
+![ezgif com-video-to-gif](https://github.com/matheus2997/desafios-frontend/assets/127162613/17318f1b-d2d6-4839-9cf5-ee3a45abcdbd)
 
 # 9º Trabalhando com pesquisa dentro de API/
 <h4>Lista de pesquisa dentro do API: https://jsonplaceholder.typicode.com/todos</h4>
+
+![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/2acf151e-68e2-4bcf-93de-0a0728102f75)
