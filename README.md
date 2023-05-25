@@ -23,7 +23,7 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 
 ![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/0d13f5c5-1bd1-4e06-accb-fb146547a5e8)
 
-<h3>5º WeForm / CSS + HTML + JS</h3>
+<h3>6º WeForm / CSS + HTML + JS</h3>
 <h4>Este projeto contempla quatro telas no figma. Proposta: ao clicar em uma das opções, sem recarregar a pagina a coluna-direita possa se atualizar.</h4>
 <h5>https://www.figma.com/file/w11Rpk9e1tqreNMtHAVrDm/We-Form?type=design&node-id=0-1&t=7VIhZVbVjbo3puKN-0</h5>
 
@@ -34,7 +34,7 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 
 ![lamp](https://github.com/matheus2997/desafios-frontend/assets/127162613/5b0f7f68-e8f8-4f92-9a06-63daf8e953a8)
 
-#8º React-Estados-Eventos-EfeitosColaterais/
+# 8º React-Estados-Eventos-EfeitosColaterais/
 <h4>Pequena lista de pesquisa e contador conforme aula React da ADA</h4>
 
 ![ezgif com-video-to-gif (1)](https://github.com/matheus2997/desafios-frontend/assets/127162613/9b8c49fb-a50d-4682-834c-6fbbb7e1db91)
