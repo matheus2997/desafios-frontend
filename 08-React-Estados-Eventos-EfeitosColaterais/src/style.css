@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    display: flex;
+    align-items: center;
+}
+.Contador{
+    background: royalblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border: 2px solid crimson;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Search{
+    background: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border: 2px solid crimson;
+}
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 80px;
+    font-size: 15px;
+    font-weight: 600;
+    background: crimson;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+}
+button:hover{
+    background: rgb(240, 216, 5);
+}
+button:last-child{
+    margin-left: 50px;
+}
+.recebe{
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+}
+.pesquisa{
+    margin-top: 30px;
+    font-size: 20px;
+}
