@@ -39,3 +39,5 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 
 ![ezgif com-video-to-gif (1)](https://github.com/matheus2997/desafios-frontend/assets/127162613/9b8c49fb-a50d-4682-834c-6fbbb7e1db91)
 
+# 9º Trabalhando com pesquisa dentro de API/
+<h4>Lista de pesquisa dentro do API: https://jsonplaceholder.typicode.com/todos</h4>
