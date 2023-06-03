@@ -1,0 +1,222 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --text-color: white;
+  --bg-list: rgba(8, 8, 8, 0.1);
+  --border-list: rgba(255, 255, 255, 0.5);
+  --bg-hover-list: rgba(255, 255, 255, 0.05);
+  --light-color: black;
+  --bg-light: url(./bg-desktop-light.jpg);
+}
+
+body{
+  background-image: url(./bg-desktop-dark.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Inter', sans-serif;
+  color: var(--text-color);
+}
+[data-theme="light"] body {
+  background-image: var(--bg-light);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: var(--light-color);
+}
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/*Perfil*/
+
+.profile{
+  display: flex;
+  flex-direction: column;
+  margin-top: 56px;
+  padding: 24px 24px 0;
+}
+.profile img{
+  width: 112px;
+  height: 112px;
+}
+#sun {
+  display: none;
+}
+
+[data-theme="light"] #dark {
+  display: none;
+}
+
+[data-theme="light"] #sun {
+  display: block;
+}
+.profile a{
+  display: flex;
+  margin-top: 8px;
+  color: var(--text-color);
+  text-decoration: none;
+}
+[data-theme="light"] .profile a {
+  color: var(--light-color);
+}
+/*botão slide*/
+#toggle {
+  display: none;
+}
+
+.toggle-switch {
+  margin-top: 32px;
+  display: block;
+  width: 48px;
+  height: 24px;
+  backdrop-filter: blur(4px);
+  background: var(--bg-list);
+  border-radius: 9999px;
+  border: 1px solid var(--border-list);
+}
+[data-theme="light"] .toggle-switch {
+  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.5)
+}
+.switch {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.bxs-sun {
+  display: none!important;
+  color: black;
+  font-size: 15px;
+}
+
+.bxs-moon {
+  color: black;
+  font-size: 15px;
+}
+
+input[type="checkbox"]:checked + .switch {
+  transform: translateX(24px);
+}
+
+input[type="checkbox"]:checked + .switch .bxs-moon {
+  display: none;
+}
+
+input[type="checkbox"]:checked + .switch .bxs-sun {
+  display: inline!important;
+}
+
+/*Lista de Opções*/
+
+.options{
+    padding: 32px 24px 24px 24px;
+}
+.options ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.options li{
+  cursor: pointer;
+  text-align: center;
+  width: 490px;
+  padding: 16px 24px;
+  border-radius: 8px;
+  backdrop-filter: blur(4px);
+  background: var(--bg-list);
+  border: 1px solid var(--border-list);
+  transition: all .3s;
+}
+[data-theme="light"] .options li {
+  background: rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.options ul li a{
+  font-size: 16px;
+  color: var(--text-color);
+  text-decoration: none;
+}
+[data-theme="light"] .options ul li a {
+  color: var(--light-color);
+}
+.options ul li:hover{
+  background: var(--bg-hover-list);
+  border: 1.5px solid white; 
+}
+[data-theme="light"] .options ul li:hover {
+  color: red;
+}
+.social{
+  flex-direction: row;
+  padding: 24px;
+  font-size: 21px;
+}
+.social a{
+    color: var(--text-color);
+}
+[data-theme="light"] .social a {
+  color: var(--light-color);
+}
+.bxl-github, .bxl-instagram,  .bxl-whatsapp, .bxl-linkedin-square{
+    padding: 16px;
+    transition: color 0.3s ease;
+}
+.bxl-github,
+.bxl-instagram,
+.bxl-whatsapp,
+.bxl-linkedin-square {
+  padding: 16px;
+  transition: all 0.5s;
+}
+
+.bxl-github:hover {
+  border-radius: 50%;
+  background: rgba(65, 61, 61, 0.829);
+}
+.bxl-instagram:hover {
+  border-radius: 50%;
+  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+}
+
+.bxl-whatsapp:hover {
+  border-radius: 50%;
+  background: #25d366; /* Verde */
+}
+
+.bxl-linkedin-square:hover {
+  border-radius: 50%;
+  background: #2867B2; /* Azul */
+}
+
+footer{
+  padding: 24px;
+  font-size: 14px;
+}
+footer span a{
+  color: var(--text-color);
+}
+[data-theme="light"] footer span a {
+  color: var(--light-color);
+}
+
+@media screen and (max-width: 600px) {
+  .options ul li{
+    width: 80vw;
+  }
+}
+
