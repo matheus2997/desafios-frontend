@@ -24,8 +24,8 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 ![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/0d13f5c5-1bd1-4e06-accb-fb146547a5e8)
 
 <h3>6º WeForm / CSS + HTML + JS</h3>
-<h4>Este projeto contempla quatro telas no figma. Proposta: ao clicar em uma das opções, sem recarregar a pagina a coluna-direita possa se atualizar.</h4>
-<h5>https://www.figma.com/file/w11Rpk9e1tqreNMtHAVrDm/We-Form?type=design&node-id=0-1&t=7VIhZVbVjbo3puKN-0</h5>
+
+<h4>Figma: https://www.figma.com/file/w11Rpk9e1tqreNMtHAVrDm/We-Form?type=design&node-id=0-1&t=7VIhZVbVjbo3puKN-0</h4>
 
 ![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/4d95b8a2-aa02-41ef-8839-74232501e8f7)
 
@@ -43,3 +43,13 @@ O maior objetivo de cumprir esses desafios, é melhorar minha estruturação de 
 <h4>Lista de pesquisa dentro do API: https://jsonplaceholder.typicode.com/todos</h4>
 
 ![image](https://github.com/matheus2997/desafios-frontend/assets/127162613/2acf151e-68e2-4bcf-93de-0a0728102f75)
+
+# 10º Trilha Discovery - RocketSeat
+<h4>Figma: https://www.figma.com/file/XXAYc3GX81uvuvNbBpImNz/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=58-415&t=c92RbJ8TSINCEWqK-0</h4>
+
+![rocket](https://github.com/matheus2997/desafios-frontend/assets/127162613/945a3824-fbcd-4e9c-90cd-c9b37031372e)
+
+# 11º Trilha Aperfeiçoando Css - Dio/
+<h4>Figma: https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?type=design&node-id=2-6&t=KAFBQADwBOLDjDn4-0</h4>
+
+![dio gif](https://github.com/matheus2997/desafios-frontend/assets/127162613/f1d1c30e-0fbb-4fe0-8020-2694b207aa88)
